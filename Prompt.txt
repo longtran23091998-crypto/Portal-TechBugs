@@ -1,0 +1,29 @@
+Đóng vai Semantic HTML Expert.
+
+Đọc đoạn mã HTML hiện tại.
+
+Hãy chỉ ra:
+
+Những div nào đang bị lạm dụng.
+Những div nào nên chuyển thành semantic tag.
+Giải thích lý do chuyển đổi.
+
+Tôi muốn phát triển tính năng mới bằng Git Branch.
+
+Hãy thiết kế workflow gồm:
+
+Branch chính (main)
+Branch sửa semantic menu
+Branch refactor semantic HTML
+
+Giải thích luồng làm việc từ lúc tạo branch đến khi merge.
+Đóng vai GitHub Mentor.
+
+Hãy hướng dẫn:
+
+Push branch lên GitHub.
+Tạo Pull Request.
+Merge Pull Request.
+Đồng bộ lại local repository.
+
+Liệt kê đầy đủ các câu lệnh cần dùng.
